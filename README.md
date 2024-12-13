@@ -1,5 +1,3 @@
-# OCR-Based-Document-Data-Extraction-System
-
 # OCR Preprocessing and Data Extraction Script
 
 ## Overview
